@@ -1,0 +1,36 @@
+title: Junwei Huang
+description: Personal academic website for Junwei Huang.
+author: Junwei Huang
+url: "https://jwrh.github.io"
+baseurl: ""
+markdown: kramdown
+kramdown:
+    math_engine: mathjax
+
+
+# ins_logo: "./scotty.png"
+math: true
+
+footer: yes
+footer_url: https://github.com/ankitsultana/researcher
+footer_text: "@2025 Junwei Huang"
+
+sass:
+    style: compressed
+    sass_dir: _sass
+
+exclude:
+ - Gemfile
+ - Gemfile.lock
+ - LICENSE
+ - README.md
+ - scripts
+ - vendor
+
+nav:
+ - name: "About"
+   link: "/"
+ - name: "Contact"
+   link: "/contact/"
+ - name: "Publications"
+   link: "/pub/"
