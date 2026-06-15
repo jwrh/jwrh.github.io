@@ -11,4 +11,4 @@ Hi, I have graduated from [Carnegie Mellon University](https://www.cs.cmu.edu/).
 
 ## Research Interests
 
-Multimodal Machine Learning, Multimodal Agents, Generative Models, Statistical Learning
+Multimodal Machine Learning, Test-time scaling of all flavors, Statistical Learning
